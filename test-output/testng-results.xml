@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-21T22:21:57 IST" name="Default suite" finished-at="2023-11-21T22:22:01 IST" duration-ms="4563">
+    <groups>
+    </groups>
+    <test started-at="2023-11-21T22:21:57 IST" name="Default test" finished-at="2023-11-21T22:22:01 IST" duration-ms="4563">
+      <class name="TestExtentReport">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestExtentReport@614ca7df]" started-at="2023-11-21T22:21:57 IST" name="LaunchBrowser" finished-at="2023-11-21T22:22:00 IST" duration-ms="3153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="errorTest()[pri:0, instance:TestExtentReport@614ca7df]" started-at="2023-11-21T22:22:00 IST" name="errorTest" finished-at="2023-11-21T22:22:00 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errorTest -->
+        <test-method signature="failTest()[pri:0, instance:TestExtentReport@614ca7df]" started-at="2023-11-21T22:22:00 IST" name="failTest" finished-at="2023-11-21T22:22:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failTest -->
+        <test-method signature="searchData()[pri:0, instance:TestExtentReport@614ca7df]" started-at="2023-11-21T22:22:00 IST" name="searchData" finished-at="2023-11-21T22:22:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchData -->
+        <test-method signature="skipTest()[pri:0, instance:TestExtentReport@614ca7df]" started-at="2023-11-21T22:22:00 IST" name="skipTest" finished-at="2023-11-21T22:22:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skipTest -->
+        <test-method signature="verifyGmailLink()[pri:0, instance:TestExtentReport@614ca7df]" started-at="2023-11-21T22:22:00 IST" name="verifyGmailLink" finished-at="2023-11-21T22:22:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGmailLink -->
+        <test-method signature="verifyTitle()[pri:0, instance:TestExtentReport@614ca7df]" started-at="2023-11-21T22:22:00 IST" name="verifyTitle" finished-at="2023-11-21T22:22:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="verifyUrl()[pri:0, instance:TestExtentReport@614ca7df]" started-at="2023-11-21T22:22:00 IST" name="verifyUrl" finished-at="2023-11-21T22:22:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrl -->
+        <test-method signature="warningTest()[pri:0, instance:TestExtentReport@614ca7df]" started-at="2023-11-21T22:22:00 IST" name="warningTest" finished-at="2023-11-21T22:22:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- warningTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestExtentReport@614ca7df]" started-at="2023-11-21T22:22:00 IST" name="teardown" finished-at="2023-11-21T22:22:01 IST" duration-ms="1366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
