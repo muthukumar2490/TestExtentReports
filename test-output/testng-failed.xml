@@ -5,9 +5,16 @@
     <classes>
       <class name="TestExtentReport">
         <methods>
-          <include name="LaunchBrowser"/>
+          <include name="skipTest"/>
+          <include name="failTest"/>
           <include name="verifyGmailLink"/>
+          <include name="setup"/>
+          <include name="warningTest"/>
           <include name="teardown"/>
+          <include name="errorTest"/>
+          <include name="searchData"/>
+          <include name="verifyTitle"/>
+          <include name="verifyUrl"/>
         </methods>
       </class> <!-- TestExtentReport -->
     </classes>
